@@ -1,0 +1,103 @@
+body{
+    margin-top: 12px;
+    margin-bottom:0;
+}
+
+.container{
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 12px;
+    padding-right: 12px;
+    max-width: 1320px;
+}
+
+*, *:before, *:after{
+    box-sizing: border-box;
+}
+
+div{
+    display: block;
+}
+
+.row{
+    margin-left: -12px;
+    margin-right: -12px;
+}
+
+.login{
+    height: 100%
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+img{
+    height: 120px;
+    width: 120px;
+}
+
+#www{
+    /* display: flex;
+    justify-content: center; */
+    width: 14cm;
+    height: 40px;
+    margin-right: 10%;
+    
+}
+
+#ggg{
+    display: flex;
+    justify-content: center;
+}
+
+#hhh{
+    display: flex;
+    justify-content: center;
+}
+
+#ggg{
+    width: 14cm;
+    height: 40px;   
+}
+
+#pp{
+    text-align: left;
+    width: 14cm;
+}
+
+#ggg{
+    text-align: center;
+}
+
+#ttt{   
+    margin-right: 20%;
+    padding-left: 8%;
+    color: grey;
+}
+
+#eee{
+    margin-left:42%;
+    padding-left: 10%;
+}
+
+#e{
+    margin-left:0%;
+    padding-left: 0%;
+}
+
+#nnn{
+    display: flex;
+    justify-content: center;
+    width: 14cm;
+    margin-left: 50%;   
+}
+
+#ama{
+    display: flex;
+    justify-content: center;
+    width: 14cm;
+    margin-left: 0%; 
+}
+
+#tt{
+    color: grey;
+}

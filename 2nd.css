@@ -1,0 +1,52 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+body{
+    margin: 8%;
+}
+
+img{
+    height: 12%;
+    width: 12%;
+}
+
+#hhh{
+    display: flex;
+    justify-content: center;
+}
+
+#aaa{
+    display: flex;
+    justify-content: center;
+    font: bold;
+}
+
+#ama{
+    display: flex;
+    justify-content: center;
+    width: 14cm;
+    margin-left: 0%; 
+}
+
+#aaa{
+    display: flex;
+    justify-content: center;
+}
+
+#aba{
+    display: flex;
+    justify-content: center;
+    
+}
+
+#ddd{
+    display: flex;
+    justify-content: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#rrr{
+    display: flex;
+    justify-content: center;
+}

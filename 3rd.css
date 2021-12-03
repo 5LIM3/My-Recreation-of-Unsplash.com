@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+#unsplash{
+    position: absolute;
+    top: 0;
+    left: -95px;
+    margin-top: 70px;
+}
+
+#ooo{
+    position: absolute;
+    top: 47%;
+    color: white;
+    left: 70px;
+}
+
+#ppp{
+    position: absolute;
+    top: 63%;
+    color: white;
+    left: 75px;
+}
+
+#yyy{
+    position: absolute;
+    top: 110%;
+    color: white;
+    left: 73px;
+}
+
+#hhh{
+    display: flex;
+    justify-content: center;
+}
+
+#ggg{
+    width: 10cm;
+    height: 40px;   
+}
+
+.container{
+    margin-top: 10%;
+    width: 80%;
+}
+
+#aaa{
+    width:50cm;
+}
+
+
+#cc{
+    display: flex;
+    justify-content: center;
+    color: grey;
+}
+
+#tt{
+    color: grey;
+    outline-color: black;
+    
+}
+
+/* :hover #tt{
+    color: black;
+} */
+
+#bbb{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
